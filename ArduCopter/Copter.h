@@ -22,14 +22,14 @@
 ////////////////////////////////////////////////////////////////////////////////
 
 #include <cmath>
-#include <stdio.h>  没找到
-#include <stdarg.h>  没找到
+#include <stdio.h>  
+#include <stdarg.h>  
 
-#include <AP_HAL/AP_HAL.h>     ardupilot/libraries/AP_HAL/AP_HAL.h
+#include <AP_HAL/AP_HAL.h>     
 
 // Common dependencies
-#include <AP_Common/AP_Common.h>    ardupilot/libraries/AP_Common/AP_Common.h
-#include <AP_Common/Location.h>        ardupilot/libraries/AP_Common/Location.h
+#include <AP_Common/AP_Common.h>    
+#include <AP_Common/Location.h>       
 #include <AP_Menu/AP_Menu.h>
 #include <AP_Param/AP_Param.h>
 #include <StorageManager/StorageManager.h>
